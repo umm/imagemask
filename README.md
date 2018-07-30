@@ -11,7 +11,7 @@
 ## Install
 
 ```shell
-yarn add "umm/image_mask#^1.0.0"
+yarn add "umm/imagemask#^1.0.0"
 ```
 
 ## Usage
