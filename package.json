@@ -1,6 +1,6 @@
 {
   "name": "@umm/imagemask",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Image mask utility on uGUI",
   "homepage": "https://github.com/umm/imagemask",
   "bugs": {
