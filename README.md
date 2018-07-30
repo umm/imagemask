@@ -2,7 +2,7 @@
 
 ## What
 
-* Image masking on uGUI component 
+* Image masking with alpha transparency on uGUI component 
 
 ## Requirement
 
