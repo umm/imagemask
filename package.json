@@ -1,0 +1,30 @@
+{
+  "name": "@umm/imagemask",
+  "version": "0.0.0",
+  "description": "Image mask utility on uGUI",
+  "homepage": "https://github.com/umm/imagemask",
+  "bugs": {
+    "url": "https://github.com/umm/imagemask/issues"
+  },
+  "scripts": {
+    "umm:init": "umm-init",
+    "umm:generate_assembly_definition": "umm-generate_assembly_definition",
+    "umm:module:install": "umm-module-install",
+    "umm:module:uninstall": "umm-module-uninstall",
+    "postinstall": "npm run --silent umm:module:install",
+    "postuninstall": "npm run --silent umm:module:uninstall"
+  },
+  "author": "Takuma Maruyama",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:umm/imagemask"
+  },
+  "files": [
+    "Assets"
+  ],
+  "dependencies": {
+    "@umm/scripts": "umm/scripts#^1.0.0"
+  },
+  "devDependencies": {}
+}
